@@ -1,0 +1,55 @@
+body{
+	background-color:#EEE;
+	font-family:Helvetica,Arial,sans-serif;
+}
+li{
+	text-decoration:none;
+color:red;
+}
+h1,h2,h3{
+	list-style-type:none;
+	padding:0;
+}
+#nav ul{
+	list-style-type:none;
+	padding:0;
+}
+#container{
+	background-color:white;
+	width:auto;
+	margin-left:auto;
+}
+#header{
+	background-color:#66CCFF;
+	color:white;
+	text-align:center;
+	padding:10px;
+}
+#content{
+	padding:10px;
+}
+#nav{
+	width:180px;
+	float:left;
+}
+#nav.selected{
+	font-weight:bold;
+}
+#main{
+	width:800xp;
+	float:left;
+    height:90%;
+}
+#footer{
+	padding-right:10px;
+	clear:both;
+	background-color:#999999;
+	color:white;
+	text-align:right;
+}
+
+
+
+
+
+
