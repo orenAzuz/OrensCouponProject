@@ -1,0 +1,5 @@
+https://dzone.com/articles/why-should-i-write-getters-and-setters
+
+
+
+http://www.journaldev.com/12850/java9-private-methods-in-interface
